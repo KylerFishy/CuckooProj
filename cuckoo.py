@@ -86,7 +86,7 @@ class Cuckoo():
 # ========= TESTING =========
 
 # set this to the name of the .txt file with the keys (without the extension)
-file = "keysData/keysA"
+file = "keysC"
 
 # read the file and store in the list "keys"
 with open(file + ".txt") as f:
