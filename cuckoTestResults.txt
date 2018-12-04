@@ -1,0 +1,29 @@
+
+3 table average times:
+
+10 keys:        0.00003794
+100 keys:       0.00030818
+1000 keys:      0.0033051
+10 000 keys:    0.03054602
+100 000 keys:   0.2972385
+1 000 000 keys: 3.35868618
+
+3 table average mem. use:
+
+1 000 000 keys: 7005252
+100 000 keys:   700744
+10 000 keys:    70228
+1000 keys:      7174
+100 keys:       872
+10 keys:        242
+
+2 table average mem. use:
+
+10 keys:        214
+100 keys:       754
+1000 keys:      6156
+10 000 keys:    60180
+100 000 keys:   600544
+1 000 000 keys: 6002978
+
+rand_max: 2147483647
